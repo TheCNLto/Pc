@@ -1,0 +1,12 @@
+C:\Users\Mustard INC\Documents\Visual Studio 2010\Projects\Giag\Giag\bin\Debug\Giag.exe
+C:\Users\Mustard INC\Documents\Visual Studio 2010\Projects\Giag\Giag\bin\Debug\Giag.pdb
+C:\Users\Mustard INC\Documents\Visual Studio 2010\Projects\Giag\Giag\bin\Debug\Giag.xml
+C:\Users\Mustard INC\Documents\Visual Studio 2010\Projects\Giag\Giag\obj\x86\Debug\Giag.Form1.resources
+C:\Users\Mustard INC\Documents\Visual Studio 2010\Projects\Giag\Giag\obj\x86\Debug\Giag.Form2.resources
+C:\Users\Mustard INC\Documents\Visual Studio 2010\Projects\Giag\Giag\obj\x86\Debug\Giag.Resources.resources
+C:\Users\Mustard INC\Documents\Visual Studio 2010\Projects\Giag\Giag\obj\x86\Debug\TheCNL CMD alpha.vbproj.GenerateResource.Cache
+C:\Users\Mustard INC\Documents\Visual Studio 2010\Projects\Giag\Giag\obj\x86\Debug\Giag.exe
+C:\Users\Mustard INC\Documents\Visual Studio 2010\Projects\Giag\Giag\obj\x86\Debug\Giag.xml
+C:\Users\Mustard INC\Documents\Visual Studio 2010\Projects\Giag\Giag\obj\x86\Debug\Giag.pdb
+C:\Users\Mustard INC\Documents\Visual Studio 2010\Projects\Giag\Giag\obj\x86\Debug\Giag.test1.resources
+C:\Users\Mustard INC\Documents\Visual Studio 2010\Projects\Giag\Giag\obj\x86\Debug\Giag.test3.resources
